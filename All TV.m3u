@@ -33,7 +33,7 @@ http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
 https://tc-live1.sanook.com/live/22302_ch5.m3u8
 #EXTINF:-1 TV9
 https://stream-04.sg1.dailymotion.com/sec(86G48EQSWKUUFPhHXEV5xg5NfGi8hhPG3bxMP8zTIkiWLdZqVbtQWO3nHZ4auW-p)/dm/3/x74wlgj/s/live-2.m3u8
-#EXTINF:-1 NBT
+#EXTINF:-1 NBT TV2
 http://live.prd.go.th:1935/live/ch1_L.sdp/chunklist.m3u8
 #EXTINF:-1 one news
 http://news1.live14.com/stream/news1_low.m3u8
