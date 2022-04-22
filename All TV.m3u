@@ -16,7 +16,7 @@ http://203.176.130.123:8989/live/seatv_480k.stream/chunklist_w649842582.m3u8?mtv
 #EXTINF:-1 Apsara
 http://203.176.130.123:8989/live/apsaratv_480k.stream/chunklist_w2102806989.m3u8
 #EXTINF:-1 PNN
-http://203.176.130.123:8989/live/pnn_480k.stream/playlist.m3u8?mtvstarttime=0&mtvendtime=1650694959&mtvhash=Jf2hzU566OZBhParUEjjaAt3FAyfxU70_82EdiSTWak=
+https://livehd.malimarcdn.com/hdliveedge00/pnntvhd.stream/chunklist.m3u8
 #EXTINF:-1 MSJ
 http://124.248.165.18:1935/live/myStream.smil/chunklist_w646558228_b2260000_sleng.m3u8
 #EXTINF:-1 Khmer tv
@@ -45,30 +45,9 @@ http://news1.live14.com/stream/news1_low.m3u8
 https://stream-04.sg1.dailymotion.com/sec(ccIVIlWaGsSkNrAGI3_YSY5ZNkF7T-fnRJW-7x_DFGfKhDF6BammxhukgEnH7tr3)/dm/3/x6eoldf/d/live-0.m3u8
 #EXTINF:-1 Workpoint tv
 https://stream-04.sg1.dailymotion.com/sec(MuIaQwZ7oLftuFXhsi7R8iEr26HIyELGRpVnhg4YpTcLmDFOIFIdioBDusDBy0VG)/dm/3/x6g9qjj/s/live-0.m3u8
-#EXTINF:-1 PPTV
-https://s0.cdn.vet/live/ch25/i/ch25i.m3u8?sid=cjeN2ZiMWMzNDVkZjEyNzExN2M2ZgNmM2ZTNhNzQzZTkzZTMx
-#EXTINF:-1 GMM 25
-https://s0.cdn.vet/live/ch0/i/ch0i.m3u8?sid=cjeNWE5MGMyZTljOWEwODM2NjBjNwNzVmMjkwOWEzZWNhNWYy
-#EXTINF:-1 Omren tv
-https://s0.cdn.vet/live/ch26/i/ch26i.m3u8?sid=cjeMzc5N2QxZmYwMzUzNjI5MzU3ZgOTA1MDU1NzdiYzE3MGEw
-#EXTINF:-1 PBS 
-https://s0.cdn.vet/live/ch1/i/ch1i.m3u8?sid=cjeYjQzZjkzMGI4MTljM2ViMTFhMwMmJiODBmYjk3ZTZiMGU2
-#EXTINF:-1 Thai rath
-https://s0.cdn.vet/live/ch39/i/ch39i.m3u8?sid=cjeMGE4MTkzODhkNGQ3Y2IwYmRmNQOGE2MjY3ZmU1MmEyZjU4
-#EXTINF:-1 New 18
-https://s0.cdn.vet/live/ch30/i/ch30i.m3u8?sid=cjeZjRmMDRkYzRiOTFiMjY4MmVlMwOGNhNjhiNDczMjM4NGQ0
-#EXTINF:-1 Mono 29
-https://s0.cdn.vet/live/ch38/i/ch38i.m3u8?sid=cjeZmJlZDUyODZhYjBkMWNhOGFlYQNjg2NmVjMDQyMjBjNTJk
-#EXTINF:-1 Catoon club
-https://s0.cdn.vet/live/ch31/i/ch31i.m3u8?sid=cjeMmQyZjlkNTU5NGQ1NmNmMjkwYwMTc5MzY4M2JmZThlYjEz
-#EXTINF:-1 Top news
-https://s0.cdn.vet/live/ch40/i/ch40i.m3u8?sid=cjeYzI1NWE5YjY1ZGFjMTA1ZDZhNQNzY3OTZjM2UzZTgyODM3
-#EXTINF:-1 OneTV
 https://freelive.inwstream.com:1936/freelive-edge/onehd/playlist.m3u8
 #EXTINF:-1 ETV
 http://150.95.66.20:1935/live/livestream/playlist.m3u8
-#EXTINF:-1
-https://www.dailymotion.com/cdn/live/video/x7z8zsu.m3u8?sec=MDQND1hjL9RRH2B9MSt90Q1ICtWBHA57iIGFVjAwwGHzypY5NEijFtkVWDf835DTjKa9AphIuaIhSTuc2e5HfQ&dmTs=77792&dmV1st=178BBBBA9AD4E35DCE05B874334EFFF0
 #EXTINF:-1 DLTV
 https://dltv-live-edge.catcdn.cloud/dltv08_720p/index.m3u8
 
