@@ -15,7 +15,7 @@ https://livefta.malimarcdn.com/tvkedge/btv.stream/chunklist.m3u8
 http://203.176.130.123:8989/live/seatv_480k.stream/chunklist_w649842582.m3u8?mtvstarttime=0&mtvendtime=1650668114&mtvhash=FdZ4vfOmcKYJ1f1ZoHo78lK2LUmA4B0mpvllsJ5JNcg%3D
 #EXTINF:-1 Apsara
 http://203.176.130.123:8989/live/apsaratv_480k.stream/chunklist_w2102806989.m3u8
-#EXTINF:-1 PNN
+#EXTINF:-1 PNN TV
 http://203.176.130.123:8989/live/pnn_480k.stream/chunklist_w1457817293.m3u8
 #EXTINF:-1 MSJ
 http://124.248.165.18:1935/live/myStream.smil/chunklist_w646558228_b2260000_sleng.m3u8
