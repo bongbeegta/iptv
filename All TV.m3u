@@ -29,9 +29,6 @@ http://wikitv-streaming.poscarasia.com:1935/live/ngrp:myStream_all/chunklist_w14
 https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/HQs/chunklist.m3u8
 #EXTINF:-1 Love Nature 
 http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
-
-#EXTINF:-1 tvg-id="CH3"
-https://s0.cdn.vet/live/ch3/i/ch3i.m3u8?sid=cjeMjUzYzRmZGNiMDYwZjVlMGY0NgNDk4MzA2M2M2ZTlmMWE0
 #EXTINF:-1 tvg-id="CH5"CH5(1080)
 https://tc-live1.sanook.com/live/22302_ch5.m3u8
 #EXTINF:-1 TV7
@@ -44,8 +41,6 @@ https://stream-04.sg1.dailymotion.com/sec(86G48EQSWKUUFPhHXEV5xg5NfGi8hhPG3bxMP8
 http://live.prd.go.th:1935/live/ch1_L.sdp/chunklist.m3u8
 #EXTINF:-1 one news
 http://news1.live14.com/stream/news1_low.m3u8
-#EXTINF:-1 TV11
-https://s0.cdn.vet/live/ch11/i/ch11i.m3u8?sid=cjeMjM3NmU3ZGQ0NzFlMzU0ZGI2MgNzM0NGZmZjQzOWQ4ODc5
 #EXTINF:-1 TV Nation
 https://stream-04.sg1.dailymotion.com/sec(ccIVIlWaGsSkNrAGI3_YSY5ZNkF7T-fnRJW-7x_DFGfKhDF6BammxhukgEnH7tr3)/dm/3/x6eoldf/d/live-0.m3u8
 #EXTINF:-1 Workpoint tv
